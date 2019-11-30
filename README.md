@@ -1,0 +1,1 @@
+This is RiceFree's first git project!
